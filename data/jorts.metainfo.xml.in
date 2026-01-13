@@ -90,11 +90,11 @@
     </screenshots>
 
     <releases>
-        <release version="4.0.1" date="2025-11-22">
+        <release version="4.0.1" date="2026-01-13">
             <description>
-                <p>Fixup release</p>
+                <p>Organization change</p>
                 <ul>
-                    <li>Minor refactoring</li>
+                    <li>From ellie-commons to elly-code</li>
                 </ul>
                 <p>😎 Guests stars:</p>
                 <ul>
