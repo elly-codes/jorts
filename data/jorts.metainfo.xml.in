@@ -21,11 +21,11 @@
     <launchable type="desktop-id">io.github.elly_code.jorts.desktop</launchable>
 
     <provides>
-        <id>io.github.ellie_commons.reminduck</id>
-        <binary>io.github.ellie_commons.reminduck</binary>
+        <id>io.github.ellie_commons.jorts</id>
+        <binary>io.github.ellie_commons.jorts</binary>
     </provides>
     <replaces>
-        <id>io.github.ellie_commons.reminduck</id>
+        <id>io.github.ellie_commons.jorts</id>
     </replaces>
 
     <developer id="io.github.elly-code">
