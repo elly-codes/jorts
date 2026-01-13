@@ -18,10 +18,15 @@
         </ul>
         <p>This is a fork of an old version of "Notejot" by lainsce. The community liked it so much, we thought it would be great to revive it!</p>
     </description>
-    <provides>
-        <binary>io.github.elly_code.jorts</binary>
-    </provides>
     <launchable type="desktop-id">io.github.elly_code.jorts.desktop</launchable>
+
+    <provides>
+        <id>io.github.ellie_commons.reminduck</id>
+        <binary>io.github.ellie_commons.reminduck</binary>
+    </provides>
+    <replaces>
+        <id>io.github.ellie_commons.reminduck</id>
+    </replaces>
 
     <developer id="io.github.elly-code">
         <name>Lainsce + Stella</name>
